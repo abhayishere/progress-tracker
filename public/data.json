@@ -1,3 +1,14 @@
 {
-  
+  "exercises": [
+    {
+      "id": "1743531838608",
+      "name": "Bench Press",
+      "entries": [
+        {
+          "date": "2025-04-01",
+          "weight": 25
+        }
+      ]
+    }
+  ]
 }
